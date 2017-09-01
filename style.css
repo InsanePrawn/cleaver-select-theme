@@ -351,6 +351,8 @@ table th {
 
 /* Code Highlighting */
 code {
+/* prawn edit*/
+  font-size: 50%
   padding: .1em .35em;
   font-family: 'Inconsolata';
   background-color: #fafafa;
